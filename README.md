@@ -8,12 +8,6 @@ Easily discover, connect and chat with the software developers across the world 
 
 
 
-# Features
-
-- Discover new developers
-- Quick and detailed profile summary
-- Connect with developers
-- Chat with connections
 
 # Tech Stack
 
